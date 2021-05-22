@@ -1,4 +1,4 @@
-# My Certificates
+# Certifications
 This repository includes all my certificates.
 
 My currently completed or ongoing online courses are: 

@@ -1,5 +1,5 @@
-# My-Coursera-Certificates
-This repository includes all my certificate obtained from online learning platform Coursera
+# My Certificates
+This repository includes all my certificates.
 
 My currently completed or ongoing online courses are: 
 
